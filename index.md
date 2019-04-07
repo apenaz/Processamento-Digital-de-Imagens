@@ -1,5 +1,5 @@
 # Página para apresentação dos exercícios da disciplina [DCA0445](https://agostinhobritojr.github.io/curso/pdi/)
-##PROCESSAMENTO DIGITAL DE IMAGENS (PDI)
+## PROCESSAMENTO DIGITAL DE IMAGENS (PDI)
 Professor: [Agostinho Brito](https://agostinhobritojr.github.io)
 
 ##  - 2019.1
