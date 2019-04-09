@@ -32,8 +32,8 @@ int main(int argc, char **argv)
   cout << "altura  = " << height << endl;
 
   int histw = nbins, histh = nbins / 2;
-  Mat histImgO(histh, histw, CV_8UC3, Scalar(0, 0, 0));
-  Mat histImgE(histh, histw, CV_8UC3, Scalar(0, 0, 0));
+  Mat histImgO(histh, histw, CV_8UC1, Scalar(0));
+  Mat histImgE(histh, histw, CV_8UC1, Scalar(0));
 
   while (1)
   {
