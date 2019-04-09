@@ -37,13 +37,13 @@ int main(int argc, char** argv){
   while(1){
     cap >> image;
     split (image, planes);
-    calcHist(&planes[0], 1, 0, Mat(), histR, 1,
+    calcHist(&planes[2], 1, 0, Mat(), histR, 1,
              &nbins, &histrange,
              uniform, acummulate);
     calcHist(&planes[1], 1, 0, Mat(), histG, 1,
              &nbins, &histrange,
              uniform, acummulate);
-    calcHist(&planes[2], 1, 0, Mat(), histB, 1,
+    calcHist(&planes[0], 1, 0, Mat(), histB, 1,
              &nbins, &histrange,
              uniform, acummulate);
 
