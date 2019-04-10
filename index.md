@@ -4,20 +4,35 @@ Professor: [Agostinho Brito](https://agostinhobritojr.github.io)
 Aluno: Josiel Patricio Pereira de Oliveira
 ##  - 2019.1
 
-### Objetivos:
-Introdução: fundamentos de imagens digitais. Transformações de imagens. Melhoramento de imagens. Restauração de imagens. Técnicas de compressão. Segmentação, representação e descrição de imagens. Reconhecimento e interpretação de imagens.
+# Compilar e executar os códigos
 
-### Exercício 1
+Para compilar e executar os códigos basta executar a sequência de comandos listada que será explicada em seguida.
 
-### Exercício 2
+```Makefile
+make <Nome_do_arquivo_cpp>
+./<Nome_do_arquivo_cpp>
+```
 
-### Exercício 3
+A primeira linha usa o aplicativo make para compilar o arquivo do código fonte. <Nome_do_arquivo_cpp> refere-se ao código escrito na linguagem C++.
+Na segunda linha temos a execução do programa. Em alguns casos é necessário passar argumentos necessários para o correto funcionamento da aplicação desenvolvida, isso pode ser feito adicionando os parametros após o nome do programa a ser executado.
 
-### Exercício 4
+```
+./<Nome_do_arquivo_cpp> <parametro_necessario>
+```
 
-### Exercício 5
+# Regiões
 
-### Exercício 6
+# Troca de Regiões
+
+# Labeling
+
+# Equalize
+
+# Detecção de Movimento
+
+# Filtro Espacial I
+
+# TiltShift
 
 
 
