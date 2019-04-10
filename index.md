@@ -1,15 +1,23 @@
 # Página para apresentação dos exercícios da disciplina [DCA0445](https://agostinhobritojr.github.io/curso/pdi/)
 ## PROCESSAMENTO DIGITAL DE IMAGENS (PDI)
 Professor: [Agostinho Brito](https://agostinhobritojr.github.io)
-
+Aluno: Josiel Patricio Pereira de Oliveira
 ##  - 2019.1
-
 
 ### Objetivos:
 Introdução: fundamentos de imagens digitais. Transformações de imagens. Melhoramento de imagens. Restauração de imagens. Técnicas de compressão. Segmentação, representação e descrição de imagens. Reconhecimento e interpretação de imagens.
 
-### Conteúdo:
-Introdução: fundamentos de imagens digitais. Transformações de imagens. Melhoramento de imagens. Restauração de imagens. Técnicas de compressão. Segmentação, representação e descrição de imagens. Reconhecimento e interpretação de imagens
+### Exercício 1
+
+### Exercício 2
+
+### Exercício 3
+
+### Exercício 4
+
+### Exercício 5
+
+### Exercício 6
 
 
 
