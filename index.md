@@ -148,6 +148,13 @@ return 0;
 }
 ```
 
+Com o código acima obtivemos os seguintes resultados
+
+![biel.png](imagem/biel.png)  
+figura 04: imagem original
+
+![biel2.png](imagem/biel2.png)  
+figura 05: imagem com regiões trocas.
 
 # Labeling
 
@@ -249,16 +256,16 @@ imshow("image", image2);
 }
 ```
 ![bolhas.png](imagem/bolhas.png)  
-figura 04: imagem original
+figura 06: imagem original
 
 ![f0.png](imagem/f0.png)  
-figura 05: sem objetos das bordas.
+figura 07: sem objetos das bordas.
 
 ![f1.png](imagem/f1.png)  
-figura 06: com alteração do rótulo do funto
+figura 08: com alteração do rótulo do funto
 
 ![f2.png](imagem/f2.png)  
-figura 07: imagem com todos os objetos marcados
+figura 09: imagem com todos os objetos marcados
 
 # Equalize
 
